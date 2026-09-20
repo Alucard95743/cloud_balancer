@@ -4,11 +4,14 @@
 
 ### Задание 1
 
-![Балансировщик](Screenshots\balancer.png)
+### Балансировщик
+![Балансировщик](Screenshots/balancer.png)
 
-![Целевая группа](Screenshots\target_group.png)
+###
+![Целевая группа](Screenshots/target_group.png)
 
-![Страница балансировщика](Screenshots\balancer_answer)
+###
+![Страница балансировщика](Screenshots/balancer_answer.png)
 
 
 
